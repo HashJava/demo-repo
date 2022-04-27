@@ -7,3 +7,4 @@ Third attempt
 Changes were made...
 
 3 types of variables
+new changes
